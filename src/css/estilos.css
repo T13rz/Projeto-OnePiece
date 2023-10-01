@@ -1,5 +1,5 @@
 body {
-    background-color: #000;
+    background-color: #000000;
     overflow: hidden;
 }
 
@@ -51,6 +51,7 @@ main .personagem .imagem {
 
 .conteudo .descricao {
     color: #ffffff;
+    font-size: 22px;
     font-family: "Rubik";
     line-height: 24px;
 }
